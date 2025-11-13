@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: pink
+
+}
+p{
+font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+font-weight: 700;
+font-style: italic;
+text-align: right;
+text-decoration: underline;
+text-transform: lowercase;
+text-shadow: 1px 1px 10px #f05;
+color: rgb(106, 51, 6);
+display: inline-block;
+
+}
+#para{
+    color: aqua;
+}
+img{
+
+    border: 2px solid rebeccapurple;
+    /* border-radius: 50%; */
+    float: left;
+    margin-right: 10px;
+    padding: 3px;
+
+}
